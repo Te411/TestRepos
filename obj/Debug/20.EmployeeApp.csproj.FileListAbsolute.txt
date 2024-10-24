@@ -1,0 +1,7 @@
+C:\IkryanikovDanila\Норбит. Стажировка\C#\По книге Троелсен Э, Джепикс Ф\20.EmployeeApp\bin\Debug\20.EmployeeApp.exe.config
+C:\IkryanikovDanila\Норбит. Стажировка\C#\По книге Троелсен Э, Джепикс Ф\20.EmployeeApp\bin\Debug\20.EmployeeApp.exe
+C:\IkryanikovDanila\Норбит. Стажировка\C#\По книге Троелсен Э, Джепикс Ф\20.EmployeeApp\bin\Debug\20.EmployeeApp.pdb
+C:\IkryanikovDanila\Норбит. Стажировка\C#\По книге Троелсен Э, Джепикс Ф\20.EmployeeApp\obj\Debug\20.EmployeeApp.csproj.AssemblyReference.cache
+C:\IkryanikovDanila\Норбит. Стажировка\C#\По книге Троелсен Э, Джепикс Ф\20.EmployeeApp\obj\Debug\20.EmployeeApp.csproj.CoreCompileInputs.cache
+C:\IkryanikovDanila\Норбит. Стажировка\C#\По книге Троелсен Э, Джепикс Ф\20.EmployeeApp\obj\Debug\20.EmployeeApp.exe
+C:\IkryanikovDanila\Норбит. Стажировка\C#\По книге Троелсен Э, Джепикс Ф\20.EmployeeApp\obj\Debug\20.EmployeeApp.pdb
